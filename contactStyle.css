@@ -1,0 +1,17 @@
+button.map {
+    text-align: center;
+}
+
+button.mapBtn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #08b1ff;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button.mapBtn:hover {
+    background-color: #0056b3;
+}
